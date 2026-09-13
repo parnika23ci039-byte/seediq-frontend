@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SeedIQ</string>
+    <string name="title_activity_main">SeedIQ</string>
+    <string name="package_name">com.seediq.app</string>
+    <string name="custom_url_scheme">com.seediq.app</string>
+</resources>
